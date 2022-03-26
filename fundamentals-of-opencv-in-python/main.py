@@ -2,7 +2,7 @@
 import cv2
 
 # Opening an RGB image
-image = cv2.imread("images/messi.jpg")
+image = cv2.imread("messi.jpg")
 cv2.imshow("Original image", image)
 cv2.waitKey()
     
